@@ -1,0 +1,14 @@
+{
+  "name": "tastykart-restaurant-dashboard",
+  "version": "1.0.0",
+  "description": "TastyKart Partner Hub - Real-Time Culinary Operations & Management Dashboard",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
